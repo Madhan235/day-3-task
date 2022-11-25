@@ -1,0 +1,7 @@
+let user = { "name": "coder",
+            "age":"26",
+            "education":"full stack development",
+            "work_experiance":"guvi",
+            "skill":"full stack developer",
+            "lanuages_known":["C","C++","JAVA","JAVASCRIPT","KOTLIN"]}
+        
